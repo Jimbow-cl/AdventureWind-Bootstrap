@@ -1,0 +1,88 @@
+
+.backcompass1 {
+    background-image: url("./svg/compass-svgrepo-com.png");
+    background-repeat: no-repeat;
+    background-clip: content-box;
+    background-position: -210px 373px;
+    background-size: 45%;
+}
+
+.backcompass2 {
+    background-image: url("./svg/compass2-svgrepo-com.png");
+    background-repeat: no-repeat;
+    background-clip: content-box;
+    background-position: 1240px -250px;
+    background-size: 40%;
+}
+
+.sailboat {
+    background-image: url("./svg/sailboat-svgrepo-com.png");
+    background-repeat: no-repeat;
+    background-clip: content-box;
+    background-position: -210px 300px;
+    background-size: 35%;
+}
+
+.backgroundviolet {
+    background-color: #132d71;
+}
+
+.roboto48 {
+    font-size: 48px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+
+}
+
+.roboto36 {
+    font-size: 36px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.roboto36bold {
+    font-size: 36px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+.roboto20 {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.roboto20bold {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.colorviolet {
+    color: #132d71;
+}
+
+.colorwhite {
+    color: white;
+}
+
+.colorgray {
+    color: gray;
+}
+
+.left {
+    padding-left: 100px;
+}
+
+.align {
+    justify-content: center;
+    text-align: center;
+}
+
+
+.border-right {
+    border-right: 5px solid #132d71;
+
+}
+
+.align-left {
+    text-align:left ;
+}
